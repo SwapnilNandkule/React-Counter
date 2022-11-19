@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  }
+
+h1{
+  font-size: 50px;
+  font-weight: 400;
+}
+
+#num{
+  font-size: 120px;
+}
+
+button{
+  font-size: xxx-large;
+  padding: 30px;
+  margin: 50px;
+  border: 2px solid;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#reset{
+  display: none;
+}
+
+
